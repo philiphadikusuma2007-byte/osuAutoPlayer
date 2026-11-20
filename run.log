@@ -1,0 +1,202 @@
+Playing. Ctrl+C = pause/resume, Shift = lose on purpose.
+Move 1: ## -> R6C4  aim-fix -12,+2px lift 0.291
+
+Ctrl+C - PAUSED. Press Ctrl+C again to play on.
+
+Ctrl+C - playing again (keeps what it learned).
+Board gone for 30s with no ad to close - treating it as GAME OVER.  (game 1 finished after 1 moves)
+Starting a new game...
+Closed the game.
+Game window not found - starting the game...
+Move 2: .#./### -> R4C4  aim-fix -2,-5px lift 0.289
+Move 3: # -> R1C5 clears 1  aim-fix +0,+0px lift 0.289
+Move 4: .#./### -> R1C5  aim-fix +0,+0px lift 0.289
+  miss (##/## -> R3C5), retrying with nudge
+  miss (##/## -> R3C5), retrying with nudge
+  miss (##/## -> R3C5), retrying with nudge
+  miss (##/## -> R3C5), retrying with nudge
+Move 5: ##/## -> R3C5  aim-fix -58,+2px lift 0.289
+Move 6: ## -> R8C6 clears 1  aim-fix +0,+0px lift 0.289
+Move 7: ##/## -> R7C5  aim-fix -31,+2px lift 0.290
+Move 8: # -> R4C3  aim-fix +0,+0px lift 0.290
+Move 9: .#./### -> R4C5 clears 2  aim-fix +0,+0px lift 0.290
+Move 10: .#./### -> R3C3  aim-fix +0,+0px lift 0.290
+  miss (#/# -> R7C8), retrying with nudge
+  miss (#/# -> R7C8), retrying with nudge
+  miss (#/# -> R7C8), retrying with nudge
+  miss (#/# -> R7C8), retrying with nudge
+Move 11: #/# -> R7C8  aim-fix -40,+2px lift 0.290
+Move 12: ###/..#/..# -> R4C6 clears 1  aim-fix +25,+6px lift 0.292
+Move 13: .#./### -> R5C6  aim-fix +0,+0px lift 0.292
+  miss (##/## -> R2C6), retrying with nudge
+Move 14: ##/## -> R2C6  aim-fix -5,+10px lift 0.296
+  miss (##### -> R1C2), retrying with nudge
+Move 15: ##### -> R1C2 clears 2  aim-fix -9,+41px lift 0.296
+Move 16: ###/..#/..# -> R6C4 clears 2  aim-fix +36,-2px lift 0.296
+Move 17: ###/..#/..# -> R1C6  aim-fix +37,+22px lift 0.303
+Move 18: ###/..#/..# -> R6C5 clears 1  aim-fix +0,+0px lift 0.303
+Move 19: ##### -> R5C4 clears 1  aim-fix -50,+52px lift 0.322
+  miss (###/###/### -> R3C4), retrying with nudge
+  miss (###/###/### -> R3C4), retrying with nudge
+Move 20: ###/###/### -> R3C4  aim-fix +6,-28px lift 0.312
+Move 21: #../### -> R1C4 clears 1  aim-fix +0,+0px lift 0.312
+Move 22: ## -> R3C2  aim-fix +26,-9px lift 0.309
+Move 23: #../### -> R7C3  aim-fix +0,+0px lift 0.309
+  miss (#/# -> R5C3), retrying with nudge
+  miss (#/# -> R5C3), retrying with nudge
+  miss (#/# -> R5C3), retrying with nudge
+Move 24: #/# -> R5C3 clears 1  aim-fix +17,-2px lift 0.308
+  miss (###/###/### -> R4C1), retrying with nudge
+Move 25: ###/###/### -> R4C1 clears 1  aim-fix +8,+20px lift 0.308
+  miss (###/..#/..# -> R1C5), retrying with nudge
+Move 26: ###/..#/..# -> R1C5  aim-fix +5,+21px lift 0.315
+Move 27: #/# -> R4C2  aim-fix -10,-4px lift 0.314
+Move 28: #../### -> R6C4 clears 2  aim-fix +0,+0px lift 0.314
+Move 29: #/#/# -> R6C2  aim-fix +1,-10px lift 0.310
+Move 30: ###/###/### -> R1C1 clears 2  aim-fix +0,+0px lift 0.310
+Move 31: ###/..#/..# -> R6C6  aim-fix +0,+0px lift 0.310
+Move 32: .##/##. -> R6C3  aim-fix +0,+0px lift 0.310
+Move 33: ### -> R6C1 clears 1  aim-fix +0,+0px lift 0.258
+Move 34: #### -> R8C4  aim-fix +0,+0px lift 0.258
+Move 35: # -> R7C7  aim-fix +0,+0px lift 0.258
+Move 36: ###/###/### -> R4C6 clears 2  aim-fix -1,+32px lift 0.266
+Move 37: ##/## -> R7C7  aim-fix +0,+0px lift 0.266
+Move 38: ##/#. -> R2C6 clears 1  aim-fix -67,+47px lift 0.266  [landed off by 0,-1 - learning]
+  miss (###/..#/..# -> R3C6), retrying with nudge
+Move 39: ###/..#/..# -> R3C6 clears 1  aim-fix +0,+0px lift 0.266
+  miss (#../### -> R1C6), retrying with nudge
+Move 40: #../### -> R1C6  aim-fix -4,+53px lift 0.279
+  miss (#../### -> R1C1), retrying with nudge
+  miss (#../### -> R1C1), retrying with nudge
+Move 41: #../### -> R1C1  aim-fix +4,-30px lift 0.271
+Move 42: ###/..#/..# -> R1C2 clears 1  aim-fix +4,+23px lift 0.277
+Move 43: ##/## -> R2C1  aim-fix -18,+9px lift 0.279
+Move 44: ##/#. -> R2C3  aim-fix -16,+3px lift 0.280
+  miss (#/# -> R2C6), retrying with nudge
+  miss (#/# -> R2C6), retrying with nudge
+Move 45: #/# -> R2C6 clears 1  aim-fix +11,+115px lift 0.280  [landed off by 2,0 - learning]
+  miss (#/#/#/# -> R5C3), retrying with nudge
+  miss (#/#/#/# -> R5C3), retrying with nudge
+  miss (#/#/#/# -> R5C3), retrying with nudge
+Move 46: #/#/#/# -> R5C3  aim-fix +31,-18px lift 0.275
+Move 47: ###/..#/..# -> R4C2 clears 2  aim-fix +4,+17px lift 0.280
+Move 48: ### -> R1C3  aim-fix -6,-13px lift 0.276
+  miss (##### -> R6C4), retrying with nudge
+Move 49: ##### -> R6C4  aim-fix +4,+66px lift 0.293
+Move 50: #../### -> R5C1 clears 1  aim-fix +0,+0px lift 0.293
+  miss (#/#/#/#/# -> R2C3), retrying with nudge
+  miss (#/#/#/#/# -> R2C3), retrying with nudge
+Move 51: #/#/#/#/# -> R2C3  aim-fix +24,-6px lift 0.293  [landed off by 1,0 - learning]
+Move 52: ##/#. -> R6C1  aim-fix +0,+0px lift 0.293
+Move 53: ##### -> R6C4 clears 1  aim-fix +0,+0px lift 0.293
+Move 54: #../### -> R5C2 clears 1  aim-fix +11,+22px lift 0.298
+  miss (#### -> R2C3), retrying with nudge
+  moving game window fully onto the screen
+  moving game window fully onto the screen
+  miss (#### -> R2C3), retrying with nudge
+  miss (#### -> R2C3), retrying with nudge
+Move 55: ##/#. -> R1C1  aim-fix +21,-8px lift 0.296
+Move 56: ##### -> R2C4  aim-fix +2,+26px lift 0.302
+Move 57: ##/#. -> R2C2 clears 1  aim-fix -37,-41px lift 0.292
+Move 58: ###/###/### -> R6C1  aim-fix +0,+0px lift 0.292
+Move 59: ##### -> R6C4 clears 1  aim-fix +1,+27px lift 0.299
+Move 60: ## -> R2C1  aim-fix +0,+0px lift 0.299
+  miss (###/..#/..# -> R1C6), retrying with nudge
+  miss (###/..#/..# -> R1C6), retrying with nudge
+Move 61: ###/..#/..# -> R1C6  aim-fix -17,-27px lift 0.299  [landed off by 0,-1 - learning]
+Move 62: ###/..#/..# -> R6C6  aim-fix +0,+0px lift 0.299
+Move 63: ##### -> R6C1 clears 1  aim-fix -8,+0px lift 0.299
+Move 64: ## -> R8C6  aim-fix +9,-1px lift 0.299
+Move 65: ##/## -> R7C4 clears 1  aim-fix +0,+0px lift 0.299
+Move 66: ##/#. -> R7C6 clears 1  aim-fix -5,-10px lift 0.297
+Move 67: ##/.# -> R2C5  aim-fix -4,+63px lift 0.297  [landed off by 1,0 - learning]
+  miss (# -> R1C8), retrying with nudge
+Move 68: # -> R1C8  aim-fix +10,-20px lift 0.292
+Move 69: ##/## -> R1C3 clears 1  aim-fix +0,+0px lift 0.292
+Move 70: ##/#. -> R1C6  aim-fix -9,+14px lift 0.295
+Move 71: ###/..#/..# -> R5C4 clears 1  aim-fix -15,+4px lift 0.296
+Move 72: #../### -> R3C4  aim-fix +0,+0px lift 0.296
+Move 73: ##### -> R6C1  aim-fix +14,+25px lift 0.303
+Move 74: # -> R3C6  aim-fix -2,-29px lift 0.296
+Move 75: ###/..#/..# -> R6C6 clears 1  aim-fix +0,+0px lift 0.296
+Move 76: #### -> R7C4  aim-fix +1,-24px lift 0.290
+Move 77: ###/###/### -> R5C1 clears 1  aim-fix -10,+9px lift 0.292
+Move 78: ###/..#/..# -> R5C6 clears 1  aim-fix +0,+0px lift 0.292
+  miss (##/#. -> R5C7), retrying with nudge
+  miss (##/#. -> R5C7), retrying with nudge
+  miss (##/#. -> R5C7), retrying with nudge
+Move 79: ##/#. -> R5C7  aim-fix +30,+19px lift 0.297
+Move 80: .#./### -> R5C4 clears 1  aim-fix +0,+0px lift 0.297
+Move 81: #../### -> R5C6  aim-fix +4,-10px lift 0.294
+Move 82: .#./### -> R4C2  aim-fix +0,+0px lift 0.294
+Move 83: ##### -> R6C1 clears 1  aim-fix +8,+25px lift 0.300
+Move 84: #/#/# -> R3C1 clears 1  aim-fix +0,+0px lift 0.300
+Move 85: ###/###/### -> R6C1  aim-fix +0,+0px lift 0.300
+  miss (###/..#/..# -> R5C2), retrying with nudge
+  closing ad
+  closing ad
+  moving game window fully onto the screen
+  closing ad
+  closing ad
+  miss (###/..#/..# -> R5C2), retrying with nudge
+Move 86: ###/..#/..# -> R5C2  aim-fix -14,-24px lift 0.302
+  miss (## -> R2C5), retrying with nudge
+  miss (## -> R2C5), retrying with nudge
+  miss (## -> R2C5), retrying with nudge
+Move 87: ## -> R2C5  aim-fix +16,-1px lift 0.302
+  miss (#### -> R6C5), retrying with nudge
+  miss (#### -> R6C5), retrying with nudge
+  miss (#### -> R6C5), retrying with nudge
+  miss (#### -> R6C5), retrying with nudge
+  miss (#### -> R6C5), retrying with nudge
+  miss (#### -> R6C5), retrying with nudge
+  miss (#### -> R6C5), retrying with nudge
+Move 88: #### -> R6C5 clears 1  aim-fix +0,-40px lift 0.288
+Move 89: .#./### -> R7C4  aim-fix +0,+0px lift 0.288
+Move 90: ## -> R7C6 clears 1  aim-fix +0,+0px lift 0.288
+  miss (.#./### -> R4C6), retrying with nudge
+Move 91: .#./### -> R4C6  aim-fix -4,+36px lift 0.271
+  miss (###/..#/..# -> R6C5), retrying with nudge
+
+Ctrl+C - PAUSED. Press Ctrl+C again to play on.
+  miss (###/..#/..# -> R6C5), retrying with nudge
+
+Ctrl+C - playing again (keeps what it learned).
+Move 92: ###/..#/..# -> R6C5 clears 2  aim-fix -7,-2px lift 0.270
+Move 93: ## -> R2C7 clears 1  aim-fix -3,+14px lift 0.270
+Move 94: ###/..#/..# -> R1C1  aim-fix +1,+15px lift 0.275
+Move 95: #../### -> R1C4  aim-fix -1,+10px lift 0.279
+Move 96: ###/###/### -> R6C2 clears 2  aim-fix +0,+0px lift 0.279
+Move 97: .#./### -> R3C2  aim-fix -2,+7px lift 0.281
+Move 98: ##/## -> R3C7 clears 1  aim-fix -2,+9px lift 0.285
+Game window not found - starting the game...
+Game window not found - starting the game...
+Game window not found - starting the game...
+
+Shift pressed - LOSE MODE: placing pieces badly until game over.
+Move 99: ###/###/### -> R3C3  aim-fix -0,+8px lift 0.287
+Move 100: ##### -> R6C4  aim-fix -1,+20px lift 0.295
+Move 101: ##/#. -> R2C6  aim-fix -4,+14px lift 0.300
+Move 102: ##### -> R7C1  aim-fix +2,+17px lift 0.306
+Move 103: # -> R3C8  aim-fix -3,-10px lift 0.302
+Game window not found - starting the game...
+Game window not found - starting the game...
+Game window not found - starting the game...
+Game window not found - starting the game...
+Game window not found - starting the game...
+Move 104: ###/###/### -> R3C3  aim-fix +0,+0px lift 0.302
+Move 105: #/#/#/# -> R5C6  aim-fix -6,-21px lift 0.295
+Move 106: #/#/# -> R2C7  aim-fix +0,+0px lift 0.295
+  miss (###/###/### -> R6C1), retrying with nudge
+Move 107: ###/###/### -> R6C1  aim-fix +2,+26px lift 0.304
+Move 108: #/# -> R1C4  aim-fix +0,+0px lift 0.304
+  moving game window fully onto the screen
+  moving game window fully onto the screen
+Game window not found - starting the game...
+  moving game window fully onto the screen
+Move 109: ###/###/### -> R3C3  aim-fix -3,+1px lift 0.304
+Move 110: ### -> R6C6  aim-fix -0,-19px lift 0.297
+Move 111: # -> R2C6  aim-fix +0,-79px lift 0.297  [landed off by 2,0 - learning]
+
+Ctrl+C - PAUSED. Press Ctrl+C again to play on.
+Move 112: ###/###/### -> R6C2  aim-fix +0,+0px lift 0.297

@@ -1,0 +1,15 @@
+{
+ "W_LINE": 38,
+ "W_COMBO": 150,
+ "W_HOLE": 36,
+ "W_ROUGH": 10,
+ "W_RESERVE": 29,
+ "W_SPOT": 6,
+ "W_DEAD": 1000,
+ "W_DEAD_ANY": 0,
+ "W_FIT": 0,
+ "W_REGION": 64,
+ "W_TINY": 0,
+ "BEAM": 12,
+ "_tune_round": 1
+}

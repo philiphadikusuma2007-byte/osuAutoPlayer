@@ -1,0 +1,8 @@
+Round 1 (step x1.60): now 169.8 turns on new games [1 min]
+  W_REGION 40 -> 64: 169.8 -> 185.5 turns
+  W_LINE 60 -> 96: 185.5 -> 188.3 turns
+  W_LINE 96 -> 38: 188.3 -> 190.9 turns
+  KEPT: on unseen games 175.6 -> 191.5 turns. Saved: {"W_REGION": 64, "W_HOLE": 36, "W_ROUGH": 10, "W_SPOT": 6, "W_LINE": 38, "W_COMBO": 150, "W_RESERVE": 29, "W_FIT": 0, "W_TINY": 0, "W_DEAD": 1000}
+Round 2 (step x1.50): now 168.3 turns on new games [73 min]
+  W_HOLE 36 -> 54: 168.3 -> 180.4 turns
+  W_LINE 38 -> 25: 180.4 -> 183.1 turns
